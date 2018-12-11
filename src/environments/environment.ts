@@ -10,7 +10,7 @@ export const environment = {
     databaseURL: 'https://ng-firebasecrud.firebaseio.com',
     projectId: 'ng-firebasecrud',
     storageBucket: 'ng-firebasecrud.appspot.com',
-    messagingSenderId: '3'
+    messagingSenderId: ''
   }
 };
 
