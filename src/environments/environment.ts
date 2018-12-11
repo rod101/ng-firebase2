@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCFWt0AcTohADuQQ3C6wATSjv2sE3SX9es',
+    apiKey: '',
     authDomain: 'ng-firebasecrud.firebaseapp.com',
     databaseURL: 'https://ng-firebasecrud.firebaseio.com',
     projectId: 'ng-firebasecrud',
     storageBucket: 'ng-firebasecrud.appspot.com',
-    messagingSenderId: '69466837433'
+    messagingSenderId: '3'
   }
 };
 
